@@ -1,0 +1,5 @@
+Fullname: Matrosov Andrey Dmitrievich,
+Age: 28,
+Pets quantity: 0,
+Future salary: 100
+
